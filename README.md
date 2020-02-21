@@ -8,7 +8,7 @@
   Gatsby's SEO basic foundation project 
 </h1>
 
-Start your Gatsby project with all SEO implementation already configured. Just edit the `gatsby-config.js` file for your specific site and data.
+Start your Gatsby project with all SEO implementation already configured. Just edit the `gatsby-config.js` and `src/components/seo.js` files for your specific needs.
 
 ## SEO tips
 

@@ -13,12 +13,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    { 
-      resolve: `gatsby-source-filesystem`,
-      options: {      
-        path: `${__dirname}/src/images/`,
-      } 
-    },
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
